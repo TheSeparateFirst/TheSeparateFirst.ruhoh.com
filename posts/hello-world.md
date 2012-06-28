@@ -1,6 +1,6 @@
 ---
 title: Hello, World.
-date: '2012-06-27'
+date: '2012-06-26'
 description: About this blog, and why I'm making it.
 categories:
 tags: meta
