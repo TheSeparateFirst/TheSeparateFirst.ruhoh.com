@@ -2,7 +2,8 @@
 title: Hello, World.
 date: '2012-06-27'
 description: About this blog, and why I'm making it.
-categories: meta
+categories:
+tags: meta
 ---
 
 So, this is around the tenth time I've tried to start a blog, and as far as I know it's going to go just as spectacularly. I'm sure I've left traces of myself scattered across the internet, rogue bloggers and wordpresses with a single post to their credit. This one's a bit different though, since I actually have a purpose behind it.

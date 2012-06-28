@@ -2,7 +2,8 @@
 title: The Swing, part 1
 date: '2012-06-27'
 description: In which I get depressed, and tell the internet about it.
-categories: depression
+categories:
+tags: depression
 ---
 So, the past few days I've been noticing another depressive mood coming on. It's subtle. I've been eating less, haven't seen my friends in too long, haven't gone outside in a while... But part of me is afraid it's too late to turn away from the spiral right now.
 
